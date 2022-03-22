@@ -1,0 +1,10 @@
+var name="valli";
+var type=true;
+var types="true";
+var flo=5.87;
+var cha='t';
+ console.log(typeof(name));
+ console.log(typeof(type));
+ console.log(typeof(types));
+ console.log(typeof(flo));
+ console.log(typeof(cha));
